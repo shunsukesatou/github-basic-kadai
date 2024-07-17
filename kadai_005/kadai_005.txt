@@ -6,3 +6,4 @@ git add hello_world.txt
 git commit -m "hello_world.txt‚ð’Ç‰Á"
 vi hello_world.txt
 git commit -m "“ú–{Œê–ó‚ð’Ç‹L"
+git log --oneline
