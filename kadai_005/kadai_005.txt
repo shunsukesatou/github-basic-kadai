@@ -1,0 +1,8 @@
+mkdir git_challenge
+cd git_challenge
+git init
+vi hello_world.txt
+git add hello_world.txt
+git commit -m "hello_world.txt‚ð’Ç‰Á"
+vi hello_world.txt
+git commit -m "“ú–{Œê–ó‚ð’Ç‹L"
